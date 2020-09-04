@@ -1,0 +1,16 @@
+[
+  {
+    "firstName": "Admin",
+    "lastName": "Admin",
+    "email": "admin@spme.com",
+    "password": "admin",
+    "role": "ADMIN"
+  },
+  {
+    "firstName": "User",
+    "lastName": "User",
+    "email": "user@spme.com",
+    "password": "user",
+    "role": "USER"
+  }
+]
